@@ -1,0 +1,5 @@
+pythonnet
+dash==2.14.2
+flask
+flask_restx
+dash_bootstrap_components
