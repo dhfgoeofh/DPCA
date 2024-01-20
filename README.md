@@ -4,7 +4,7 @@ for research and developement project
 
 ## 개요 
 수작업이 요구되는 기존 시뮬레이션 시스템으로 인해 많은 비용이 발생함.
-
+따라서, 
 
 ## 목표 (우선순위)
 1. Database와 PLC(Programmable Logic Controller)장치의 데이터송수신 API(.dll) DPCA 개발
