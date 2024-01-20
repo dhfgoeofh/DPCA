@@ -4,7 +4,7 @@ for research and developement project
 
 ## 개요 
 기존의 산업 시설의 시뮬레이션 환경에서 수작업으로 시뮬레이션 기기 간 통신하기 위해서는 많은 비용이 발생함.
-따라서, 시뮬레이션 기기 간 통신에 사용되는 프로토콜을 자동적으로 생ㅅ
+따라서, 시뮬레이션 기기 간 통신에 사용되는 프로토콜을 자동적으로 생성하고
 
 ## 목표 (우선순위)
 1. Database와 PLC(Programmable Logic Controller)장치의 데이터송수신 API(.dll) DPCA 개발
