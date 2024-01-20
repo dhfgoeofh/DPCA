@@ -141,7 +141,7 @@ def queryFunc(query, formData):
     instance = Class1(uid)
  
     if instance.tryConnectDatabase(): # 접속 체크
-         
+          
         procedureName = query ## Procedure Name, 'CALL 프로시저이름(파라미터);'
 
         param1 = Odbc.OdbcParameter("@p_PLC_ID", Odbc.OdbcType.VarChar) # 프로시저 선언 때 파라미터 이름, 해당 변수의 타입, 해당 변수의 사이즈
