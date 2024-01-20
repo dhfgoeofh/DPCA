@@ -2,10 +2,13 @@
 Database PLC Connection and Monitoring Agent
 for research and developement project
 
+## 개요 
+
+
 ## 목표 (우선순위)
 1. Database와 PLC(Programmable Logic Controller)장치의 데이터송수신 API(.dll) DPCA 개발
 2. DACA API는 Local Web Server를 통해 실행되며, DB와 PLC 간 데이터의 송수신을 기록을 출력하는 대쉬보드 구현.
-3. 
+
 
 ## 역할
 김대로 - PLC 구조 및 통신 프로토콜 
