@@ -3,7 +3,7 @@ Database PLC Connection and Monitoring Agent
 for research and developement project
 
 ## 개요 
-
+1. 수작업이 요구되는 기존 시뮬레이션 시스템의 
 
 ## 목표 (우선순위)
 1. Database와 PLC(Programmable Logic Controller)장치의 데이터송수신 API(.dll) DPCA 개발
