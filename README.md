@@ -3,7 +3,7 @@ Database PLC Connection and Monitoring Agent
 for research and developement project
 
 ## 개요 
-수작업이 요구되는 기존의 산업 시설의 시뮬레이션 시스템은 많은 비용이 readme발생함.
+기존의 산업 시설의 시뮬레이션 시스템은 수작업으로 시 많은 비용이 readme발생함.
 따라서, 
 
 ## 목표 (우선순위)
