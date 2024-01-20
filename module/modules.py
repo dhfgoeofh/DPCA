@@ -139,7 +139,7 @@ def queryFunc(query, formData):
     # instacne 생성
     uid = "total"
     instance = Class1(uid)
-
+ 
     if instance.tryConnectDatabase(): # 접속 체크
          
         procedureName = query ## Procedure Name, 'CALL 프로시저이름(파라미터);'
