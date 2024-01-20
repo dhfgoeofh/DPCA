@@ -6,6 +6,7 @@ for research and developement project
 기존의 산업 시설의 시뮬레이션 환경에서 수작업으로 시뮬레이션 기기 간 통신하기 위해서는 많은 비용이 발생함.
 따라서, 시뮬레이션 기기 간 통신에 사용되는 프로토콜을 자동적으로 생성하고 대쉬보드를 통해 자동화함으로써, 시뮬레이션 과정의 비용을 최소화함.
 
+
 ## 목표 (우선순위)
 1. Database와 PLC(Programmable Logic Controller)장치의 데이터송수신 API(.dll) DPCA 개발
 2. DACA API는 Local Web Server를 통해 실행되며, DB와 PLC 간 데이터의 송수신을 기록을 출력하는 대쉬보드 구현.
