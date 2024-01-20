@@ -1,6 +1,6 @@
 # DPCA
 Database PLC Connection and Monitoring Agent
-for research and developement project
+for research and developement project s
 
 ## 목표 (우선순위)
 1. Database와 PLC(Programmable Logic Controller)장치의 데이터송수신 API(.dll) DPCA 개발
