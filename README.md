@@ -3,7 +3,7 @@ Database PLC Connection and Monitoring Agent
 for research and developement project
 
 ## 개요 
-기존의 산업 시설의 시뮬레이션 환경에서 수작업으로 시뮬레이션 기기 간 통신하기 위해서는 많은 비용이 readme발생함.
+기존의 산업 시설의 시뮬레이션 환경에서 수작업으로 시뮬레이션 기기 간 통신하기 위해서는 많은 비용이 발생함.
 따라서, 
 
 ## 목표 (우선순위)
