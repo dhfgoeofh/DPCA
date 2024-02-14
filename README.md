@@ -3,9 +3,9 @@ Database PLC Connection and Monitoring Agent
 for research and developement project
                                                                                                        
 ## 프로잭트 개요
-기존의 산업 시설의 시뮬레이션 환경에서 수작업으로 시뮬레이션 기기 간 통신하기 위해서는 많은 비용이 발생함.
-따라서, 시뮬레이션 기기 간 통신에 사용되는 프로토콜을 자동적으로 생성하는 기능을 모듈화하여 DLL 라이브러리를 제공하여, 시뮬레이션 과정의 비용을 최소화함.                                
-또한, 사용자 친화적인 인터페이스(Dashboard)를 제공하여 기기 간 통신 상황을 쉽게 파악하고 PLC 및 DB 수정을 용이하게 함.
+기존의 산업 시설의 시뮬레이션 환경에서 수작업으로 시뮬레이션 기기 간 통신하기 위해서는 많은 비용이 발생함.  
+따라서, 시뮬레이션 기기 간 통신에 사용되는 프로토콜을 자동적으로 생성하는 기능을 모듈화하여 DLL 라이브러리를 제공하여, 시뮬레이션 과정의 비용을 최소화함.                                  
+또한, 사용자 친화적인 인터페이스(Dashboard)를 제공하여 기기 간 통신 상황을 쉽게 파악하고 PLC 및 DB 수정을 용이하게 함.  
 
 ## 프로젝트 참여 인원
 김대로 - PLC 통신 프로토콜 생성 함수 구현  
@@ -45,7 +45,7 @@ for research and developement project
 
 ![Web API](https://github.com/dhfgoeofh/DPCA/assets/80153046/c600a1ca-3dcf-466e-9606-6001965374ec)
 
-- MySQL을 활용하여 DB를 구축
+- MySQL을 활용하여 DB를 구축  
 - DB 데이터 읽기/쓰기를 위한 Execute 쿼리(GET, POST, PUT, DELETE) 기능을 구현함
 
 ### 3. DB 데이터 시각화와 PLC 및 DB 수정을 위한 대쉬보드 개발
